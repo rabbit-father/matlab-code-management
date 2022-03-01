@@ -98,4 +98,6 @@ plot(res_FEM, vol_FEM,'o','MarkerSize',marker_size);
 
 legend('Analytical model','COMSOL')
 
+print("yaho")
+
 
